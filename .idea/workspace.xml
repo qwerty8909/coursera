@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45c73e99-eab2-48e4-9a2d-49a9b0135438" name="Changes" comment="learn project">
-      <change afterPath="$PROJECT_DIR$/temp_dir/new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Handling_Files/generate_report.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Handling_Files/new3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp_dir/csv_files.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp_dir/read_write_in_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/temp_dir/read_write_in_file.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656837936480</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="learn project">
+      <created>1656843130979</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656843130979</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45c73e99-eab2-48e4-9a2d-49a9b0135438" name="Changes" comment="learn project">
-      <change afterPath="$PROJECT_DIR$/Handling_Files/generate_report.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Handling_Files/new3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp_dir/csv_files.py" afterDir="false" />
+    <list default="true" id="45c73e99-eab2-48e4-9a2d-49a9b0135438" name="Changes" comment="lab 2week project">
+      <change afterPath="$PROJECT_DIR$/Working with Regular Expressions/lab 3week.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,12 +40,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -85,7 +83,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656843130979</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="learn project">
+      <created>1656854858592</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656854858592</updated>
+    </task>
+    <task id="LOCAL-00006" summary="lab 2week project">
+      <created>1656854907545</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656854907545</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,6 +115,7 @@
     <MESSAGE value="first project" />
     <MESSAGE value="second project" />
     <MESSAGE value="learn project" />
-    <option name="LAST_COMMIT_MESSAGE" value="learn project" />
+    <MESSAGE value="lab 2week project" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab 2week project" />
   </component>
 </project>

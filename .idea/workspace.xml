@@ -4,10 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45c73e99-eab2-48e4-9a2d-49a9b0135438" name="Changes" comment="bash">
-      <change afterPath="$PROJECT_DIR$/Bash command/toploglines.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Editing Files Using Substrings/changeJane.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Editing Files Using Substrings/findJane.sh" afterDir="false" />
+    <list default="true" id="45c73e99-eab2-48e4-9a2d-49a9b0135438" name="Changes" comment="lab 5week">
+      <change afterPath="$PROJECT_DIR$/Log Analysis Using Regular Expressions/script_auto2.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Log Analysis Using Regular Expressions/ticky_check scripte files by kamal/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Log Analysis Using Regular Expressions/ticky_check scripte files by kamal/csv_to_html.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Log Analysis Using Regular Expressions/ticky_check scripte files by kamal/error_message.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Log Analysis Using Regular Expressions/ticky_check scripte files by kamal/errors.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Log Analysis Using Regular Expressions/ticky_check scripte files by kamal/syslog.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Log Analysis Using Regular Expressions/ticky_check scripte files by kamal/ticky_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Log Analysis Using Regular Expressions/ticky_check scripte files by kamal/user_statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Log Analysis Using Regular Expressions/ticky_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Log Analysis Using Regular Expressions/ticky_check2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Log Analysis Using Regular Expressions/ticky_check3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +59,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\IdeaProjects\coursera\Log Analysis Using Regular Expressions\ticky_check scripte files by kamal" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -144,7 +157,28 @@
       <option name="project" value="LOCAL" />
       <updated>1657200273846</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="bash">
+      <created>1657203439369</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1657203439369</updated>
+    </task>
+    <task id="LOCAL-00014" summary="bash">
+      <created>1657203448292</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1657203448292</updated>
+    </task>
+    <task id="LOCAL-00015" summary="lab 5week">
+      <created>1657203578678</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1657203578678</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,8 +201,8 @@
     <MESSAGE value="week4" />
     <MESSAGE value="unit testing" />
     <MESSAGE value="errors" />
-    <MESSAGE value="lab 5week" />
     <MESSAGE value="bash" />
-    <option name="LAST_COMMIT_MESSAGE" value="bash" />
+    <MESSAGE value="lab 5week" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab 5week" />
   </component>
 </project>

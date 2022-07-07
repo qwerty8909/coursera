@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45c73e99-eab2-48e4-9a2d-49a9b0135438" name="Changes" comment="lab 3week project">
-      <change afterPath="$PROJECT_DIR$/Working with Log Files/find_error.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp_dir/week4_check_cron.py" afterDir="false" />
+    <list default="true" id="45c73e99-eab2-48e4-9a2d-49a9b0135438" name="Changes" comment="week4">
+      <change afterPath="$PROJECT_DIR$/temp_dir/C2M5L4_Errors_and_Exceptions-V2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp_dir/rearrange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp_dir/rearrange_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657052759036</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="week4">
+      <created>1657098708073</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1657098708073</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,6 +133,7 @@
     <MESSAGE value="learn project" />
     <MESSAGE value="lab 2week project" />
     <MESSAGE value="lab 3week project" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab 3week project" />
+    <MESSAGE value="week4" />
+    <option name="LAST_COMMIT_MESSAGE" value="week4" />
   </component>
 </project>

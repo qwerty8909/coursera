@@ -4,19 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45c73e99-eab2-48e4-9a2d-49a9b0135438" name="Changes" comment="lab 5week">
-      <change afterPath="$PROJECT_DIR$/Log Analysis Using Regular Expressions/script_auto2.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Log Analysis Using Regular Expressions/ticky_check scripte files by kamal/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Log Analysis Using Regular Expressions/ticky_check scripte files by kamal/csv_to_html.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Log Analysis Using Regular Expressions/ticky_check scripte files by kamal/error_message.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Log Analysis Using Regular Expressions/ticky_check scripte files by kamal/errors.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Log Analysis Using Regular Expressions/ticky_check scripte files by kamal/syslog.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Log Analysis Using Regular Expressions/ticky_check scripte files by kamal/ticky_check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Log Analysis Using Regular Expressions/ticky_check scripte files by kamal/user_statistics.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Log Analysis Using Regular Expressions/ticky_check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Log Analysis Using Regular Expressions/ticky_check2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Log Analysis Using Regular Expressions/ticky_check3.py" afterDir="false" />
+    <list default="true" id="45c73e99-eab2-48e4-9a2d-49a9b0135438" name="Changes" comment="lab 6week for sertificat">
+      <change afterPath="$PROJECT_DIR$/health_check/all_check.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log Analysis Using Regular Expressions/ticky_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/Log Analysis Using Regular Expressions/ticky_check.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657203578678</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="lab 6week for sertificat">
+      <created>1657221120398</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1657221120398</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,6 +201,8 @@
     <MESSAGE value="errors" />
     <MESSAGE value="bash" />
     <MESSAGE value="lab 5week" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab 5week" />
+    <MESSAGE value="lab for sertificat" />
+    <MESSAGE value="lab 6week for sertificat" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab 6week for sertificat" />
   </component>
 </project>
